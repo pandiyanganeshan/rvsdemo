@@ -1,1 +1,1 @@
-# rvsdemo   master demo
+# rvsdemo   student demo
